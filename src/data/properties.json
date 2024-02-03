@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "SellRent": 1,
+    "Name": "L & T",
+    "Type": "Constructor",
+    "Price": 12000,
+    "Image": "prop-1"
+  },
+  {
+    "Id": 2,
+    "SellRent": 1,
+    "Name": "TATA",
+    "Type": "Broker",
+    "Price": 15000,
+    "Image": "prop-2"
+  },
+  {
+    "Id": 3,
+    "SellRent": 2,
+    "Name": "GUEST",
+    "Type": "House",
+    "Price": 19000,
+    "Image": "prop-3"
+  },
+  {
+    "Id": 4,
+    "SellRent": 2,
+    "Name": "PUBLIC",
+    "Type": "Builder",
+    "Price": 52000,
+    "Image": "prop-4"
+  },
+  {
+    "Id": 5,
+    "SellRent": 1,
+    "Name": "PUBLIC-prop",
+    "Type": "Builder",
+    "Price": 5200000,
+    "Image": "prop-5"
+  }
+]

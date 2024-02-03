@@ -1,0 +1,13 @@
+/* #navBar {
+   background-color: aquamarine;
+} */
+
+.nav-link,
+.navbar-brand,
+.active {
+  color: white;
+}
+
+nav .nav-link {
+  color: white;
+}
